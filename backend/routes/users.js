@@ -89,7 +89,7 @@ router.post("/query", verifyToken, async (req, res) => {
         .send({ type: "text", query: query, answer: mostSimilarQuery.answers });
     }
     const response = await axios.post(
-      "https://e868-35-198-210-158.ngrok-free.app/query",
+      "https://marline-unfallowed-hortencia.ngrok-free.dev/query",
       { query },
       {
         headers: {
