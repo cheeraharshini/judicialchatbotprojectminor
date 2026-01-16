@@ -30,5 +30,5 @@ experiences and handle large datasets as the scope expands.
 cd judicial-chatbot
 <br>
 npm run dev
-for backend node index.js
+<b>for backend node index.js</b>;
 "# judicialchatbotprojectminor" 
