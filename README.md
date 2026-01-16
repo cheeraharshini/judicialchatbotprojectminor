@@ -27,9 +27,8 @@ experiences and handle large datasets as the scope expands.
 <br>
 <b>commands to run</b>:
 <br>
-open terminal
-
 cd judicial-chatbot
 <br>
 npm run dev
+for backend node index.js
 "# judicialchatbotprojectminor" 
