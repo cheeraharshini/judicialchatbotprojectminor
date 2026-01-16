@@ -28,9 +28,7 @@ experiences and handle large datasets as the scope expands.
 <b>commands to run</b>:
 <br>
 open terminal
-<br>
-git clone https://github.com/Rahulchaudhary792/judicial-chatbot.git
-<br>
+
 cd judicial-chatbot
 <br>
 npm run dev
