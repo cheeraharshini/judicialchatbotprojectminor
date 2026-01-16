@@ -34,3 +34,4 @@ git clone https://github.com/Rahulchaudhary792/judicial-chatbot.git
 cd judicial-chatbot
 <br>
 npm run dev
+"# judicialchatbotprojectminor" 
